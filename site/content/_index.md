@@ -4,12 +4,16 @@ subtitle: Un paso adelante de las ciberamenzas...
 image: img/products-grid1.jpg
 blurb:
   heading: ¿Quiénes somos?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  text: RedVortex es una empresa de consultoría en seguridad informática compuesta
+    por un equipo de expertos en el campo de la seguridad informática ofensiva.
+    Al realizar las últimas técnicas, metodologías y simulación de ataques de un
+    posible adversario, nos aseguramos de que su organización se acerque a las
+    mejores prácticas para mitigar el riesgo al menor costo. Abordamos nuestros
+    servicios ofensivos desde un enfoque holístico. Nuestro objetivo es
+    contribuir al esfuerzo de nuestros clientes para asegurar la infraestructura
+    crítica y las joyas de la corona dentro de su panorama de TI.
 intro:
-  heading: What we offer
+  heading: ¿Por qué debe elegirnos?
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
