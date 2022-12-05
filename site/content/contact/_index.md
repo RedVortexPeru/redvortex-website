@@ -6,10 +6,10 @@ contact_entries:
     text: Lince
   - heading: Horario Laboral
     text: "Lunes – Viernes: 9AM – 6PM"
-  - heading: Contactanos a
-    text: |-
-      info@redvortex.pe 
-      +51 1 987970100
+  - heading: Contactanos
+    text: >
+      Escribiéndonos al correo : info@redvortex.pe o llamando al número de
+      teléfono
 ---
 Nos encantaría ponernos en contacto y escuchar sus ideas y
 preguntas. Nos esforzamos por crecer y mejorar constantemente y los comentarios
