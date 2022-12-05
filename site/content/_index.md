@@ -1,7 +1,7 @@
 ---
 title: RedVortex
 subtitle: Un paso adelante de las ciberamenzas...
-image: img/background.png
+image: img/products-grid1.jpg
 blurb:
   heading: ¿Quiénes somos?
   text: Kaldi is the coffee store for everyone who believes that great coffee
