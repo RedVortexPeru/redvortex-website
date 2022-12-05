@@ -1,6 +1,6 @@
 ---
 title: Contacto
-logo: img/dsad.png
+logo: img/logo.svg
 contact_entries:
   - heading: Ubicanos
     text: Lince
